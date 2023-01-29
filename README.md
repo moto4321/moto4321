@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=Delphi&logoColor=white"/></a>&nbsp 
   
   <br>
@@ -32,7 +30,7 @@
 <h3 align="center"> 👨‍💻 Me 👨‍💻</h3>
 <p align="center">
   <a href="https://woooseogi.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Blogger&logoColor=white&link=https://woooseogi.tistory.com"/></a>&nbsp
-  <a href="https://www.instagram.com/woooseogi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
+  <!-- <a href="https://www.instagram.com/woooseogi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp -->
   <a href="mailto:moto432195@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=moto432195@gmail.com"/></a>
   <!-- <a href="https://loosie.tistory.com/">
     <img alt="Tistory's Badge" src="https://github-readme-tistory-card.vercel.app/api/badge?name=tech blog" />
